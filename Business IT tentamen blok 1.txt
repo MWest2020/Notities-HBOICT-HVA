@@ -1,0 +1,309 @@
+Hieronder is per onderwerp aangeven wat je minimaal moet beheersen: 
+------------------------------------------------------------------------------------------------------------------------------------
+a.	Belang van IT - missie, visie, strategie en doelstellingen - Bedrijfsprocessen
+------------------------------------------------------------------------------------------------------------------------------------
+o	In staat zijn een missie, visie, strategie en/of doelstelling te herkennen.
+
+WAT willen we misie (3-5 jaar)
+WAAROM bestaan we  (1-3) jaar
+HOE bereiken we wat wel willen en rechtvaardigen we ons bestaansrecht? (0-1) jaar
+
+
+o	In staat zijn een missie, visie, strategie en/of doelstelling op te stellen.
+
+- missie is primaire functie : Best zijn van
+- visie : doen we door
+- strategie/doelstelling : beste bereikbaarheid en slimme webshops  (CLOUD backup, DATA & BUSINESS ANALYTICS, DevOPS, etc)
+
+** BUSINESS ALIGNMENT:
+Het effectief inzetten en gebruiken van InformatieTechnologie om de gewenste situatie van een organisatie te bereiken. 
+VB: de financiele prestaties of het verbeteren van de marktpositie
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+b.	HAALBAARHEID
+----------------------------------------------------------------------------------------------------------------------------------------- 
+
+o	In staat zijn aspecten te herkennen en te kunnen berekenen die een evenwichtige afweging mogelijk maken voor het thema haalbaarheid. 
+Dit betreft met name het kunnen berekenen van de TCO, ROI en welke risico’s daarbij een rol spelen.
+
+- Is er een markt? 
+- Hoe ga je geld verdienen? 
+- Wat kom je op je weg tegen? 
+- Waarom willen we het?
+- Kunnen we het?
+- Wat kost het? 
+- Wanneer willen we het?
+
+
+Haalbaarheid is het voordeel kunnen weergeven tegenover mogelijke risico's. De voordelen kunnen uitgedrukt worden in % lagere kosten, meer 
+efficientie, kwaliteit, klanttevredenheid etc. Risico’s kunnen weergegeven worden in een risicomatrix    
+
+    TCO = total cost of ownership 
+    
+    (Gartner definieert total cost of ownership (TCO) als een uitgebreide beoordeling van de kosten van een product 
+    of dienst over de grenzen van de onderneming heen in de loop van de tijd)
+
+        - Directe kosten: 
+            - Aanschaf / lease
+            - Administratie / explotatie
+                
+        - Indirecte kosten:
+            - Incidenten
+            - opleiding (bijspijkeren of junior begeleiding)
+            - Niet-beschikbaarheid systeem
+
+    Niet de huur, NUTS of personeelskosten. Gaat dus om inventaris (materiaal / software)
+
+    TCO word tvaak gebruikt voor kleinere investeringen tegenover LCC (Life Cycle Cost) was vaak voor productie berekent wordt en gezien wordt van 
+    aanschaf tot graf (dus ook eventuele verwijdering / opruimingskosten)
+
+    ROI =  Return on Investment
+
+    Net return on investment
+    ------------------------   * 100% 
+    Cost of investment
+
+
+    of 
+
+    opbrengsten  - kosten investering
+    ---------------------------------   * 100%
+        kosten investering
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+c.	REQUIREMENTS
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+    ***     Kwaliteit is het geheel van eigenschappen en kenmerken van een product of dienst dat 
+    van belang is voor het voldoen aan vastgestelde of vanzelfsprekende behoeften       ***
+
+    **  Let op, requirements moeten atomair zijn: meetbaar, specifiek, traceerbaar en 
+        voornamelijk niet op te delen in meer requirements.
+
+    **  Business requirement:
+
+    **  System requirements: wat je verwacht, de technische benodigdheden voor het gebruiken van een systeem. Hardware, software etc.
+
+    **  User requirements: gebruiker moet bijvoorbeeld dat uit het systeem kunnen krijgen, of verwachting wat er met de 
+        software gedaan kan worden
+
+o	In staat zijn het begrip requirement vanuit proces, types, perspectieven en kwaliteit te begrijpen en toe te passen.
+
+o	Advies kunnen geven met betrekking tot de kwaliteit van een gegeven requirement.
+
+
+
+
+     
+
+---------------------------------------------------------------------------------------------------------------------------------------
+D.	MAKE or BUY
+----------------------------------------------------------------------------------------------------------------------------------------
+
+o	In staat zijn advies te kunnen geven ten aanzien van een make or buy besluit. Hierbij is het van belang om te 
+    weten welke aspecten, afwegingen hierbij een rol spelen.
+
+    - Is het beter om te ontwikkelen? (omdat er een beter product uit komt?)
+    - Is het goedkoper om het zelf te ontwikkelen?
+    - Bestaat het product al?
+    - Is er tijd om het zelf te ontwikkelen?
+    - Is er genoeg expertise?/
+
+    Deze vragen bepalen of het een goed idee is om het te maken, of het gewoon te kopen. Hou er wel rekening mee dat kopen vaak
+    duurder is en ook training vereist
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+e.	Software Ontwikkelproces & Agile
+-------------------------------------------------------------------------------------------------------------------------------------------
+    a.	Agile filosofie begrijpen.
+        Een verbetermethodiek om efficiënter en effectiever te werken.
+
+
+    b.	Aspecten van het SCRUM framework begrijpen.
+
+        Een framework om agile te werken. Er is een productowner, die de stakeholders vertegenwoordigt. Een scrummaster die ervoor zorgt 
+        dat de teamleden ongestoord kunnen bouwen en ontwikkelen. De Productowner houdt het product backlog bij, en dus de grote lijnen. 
+        De scrummaster houdt de sprint backlog bij en de taken worden opgenomen door de individuele teamleden.ABORT
+        Vaak wordt er gewerkt in sprints van twee weken, die beginnen met het opdelen van die taken d.m.v poker(zoek term op), daarna worden
+        de taken ingedeeld, opgepakt en vervolgens volgends de "definition of done" afgerond. Dit overzicht wordt dagelijks begewerkt en 
+        is vaak fysiek. Aan het einde van de sprint wordt de productiteratie opgelevert aan de stakeholders (demo) en gereflecteert en 
+        gekeken wat beter kan voor de volgende sprint.    
+
+    c.	Advies kunnen geven wanneer in een bepaald situatie de beste, meest passende ontwikkelmethodiek geïmplementeerd, toegepast moet worden.
+        
+        Als alles bij voorbaat al duidelijk is, kan een ontwikkeltechniek als waterval goed zijn, omdat het stap voor stap opgebouwd 
+        wordt en iedereen bij voorbaat al weet wat er verwacht wordt. Als er tussentijds feedback nodig is van stakeholders, dan werkt dit
+        niet en is er een 'agile' techniek nodig, zoals SCRUM/AGILE, waar al snel een product opgeleverd wordt en er bijvoorbeeld twee-
+        wekelijks nieuwe functies toegevoegd worden aan de hand van die feedback. 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+f.	Kwaliteit en Testen
+------------------------------------------------------------------------------------------------------------------------------------------
+
+    Testen bestaat uit een verzameling activiteiten die uitgevoerd wordt OM 1 OF MEER KENMERKEN VAN EEN PRODUCT, PROCES OF DIENST VAST
+    TE STELLEN VOLGENS EEN GESPECIFICEERDE PROCEDURE. HET ADVISEERT OVER KWALITEIT EN GERELATEERDE RISICO'S
+
+
+a.	Doel en rol van testen begrijpen.
+
+    - het meten van kwaliteit( kwaliteit is het geheel van eigenschappen en kenmerken van een product of dienst dan van belang is voor het 
+    voldoen van voorafgestelde of vanzelfsprekende behoefte)
+
+    - het vinden van errors, requirements die missen in vergelijking tot bestaande requirements.
+
+    - kijken of het doet wat er gevraagd wordt
+
+    - zorgen dat het product geen schade veroorzaakt door falen of exploits
+
+    - kan risico's beperken
+
+    - reduceren van onzekerheid
+
+
+
+
+b.	Begrippen van testen goed begrijpen.
+
+    METEN, ONDERZOEKEN, BEPROEVEN KEUREN 
+
+    - validatie     (geldig verklaren dat het juiste gemaakt is)
+    - verificatie   (verklaren dat iets juist WERKT)
+    - kwalificatie  (verklaren dat het geschikt is)
+
+
+    - EISEN -- Acceptatietest
+    - ANALYSE -- Systeemtest
+    - ONTWERP -- Ontwikkeltest
+    - IMPLEMENTATIE --Ontwikkeltest
+
+c.	In staat zijn advies kunnen uitbrengen over testuitvoering en aanpak. 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+g.	Beheren
+------------------------------------------------------------------------------------------------------------------------------------------
+a.	De opgegeven vormen van beheer, ITIL V 3, ITIL 4, ASL en BiSL begrijpen.
+
+    ASL / APPLICATION SERVICE LIBRARY                           = applicatiebeheer (aanpassen applicatie n.a.v. fouten : veranderende eisen)
+    BiSL / BUSINESS information SRVICE LIBRARY                  = Functioneel beheer (Framework voor specificeren, aansturen en realisatie 
+                                                                  beheer informatiebehoefte)
+    
+    
+    ITIL 3 / INFORMATION TECHNOLOGY INFRASTRUCTURE LIBRARY 3    = Technisch beheer (behere IT-infrastructuur)
+    ITIL 4 / INFORMATION TECHNOLOGY INFRASTRUCTURE LIBRARY 4    = Technisch beheer (behere IT-infrastructuur)                                
+
+b.	Belangrijkste beheervormen kunnen positioneren.
+
+    Indelen van (a.): Informatiebehoefte business == BiSL, de applicatie ASL, en verder AL het technische is ITIL (incl. netwerken en werkplekbeheer)
+
+c.	Belangrijkste aspecten, onderdelen van ITIL v3 en ITIL 4 begrijpen.
+
+    ----------------------------------------------------------------------------------------------------------------------------------
+    ITIL 3: 
+
+    Service Life Cycle:
+        -   KERN:
+            Service strategie: Eisen worden vastgesteld waar een IT-serviceprovider aan moet voldoen om de business te ondersteunen
+        
+        -   PIJLEN:
+            
+            Service-ontwerp: Services worden ontworpen. Deze fase omvat verschillende practices die ervoor zorgen dat de services 
+            ten behoeve van business doelstellingen worden ontworpen 
+        -   Servicetransitie: Na de strategie -  en ontwerpfase uitrol van de service. (dus er gewoon aan beginnen -.- )
+        -   Serviceproductie: Activiteiten en procescoördinatie en -uitvoer voor het leveren en beheren van de service
+               
+                -   Processen:
+                    o Event Management
+                    o Incident management
+                    o Request management
+                    o Probleembeheer
+                    o Toegangsbeheer
+
+                -   Functies:
+                    o Service Desk
+                    o Technisch Beheer
+                    o IT operationeel beheer
+                    o Applicatiebeheer
+                    o Faciliteitenbeheer
+        
+        -   CIRKEL:
+        -   Continue serviceverbetering: Voordurende kwaliteitsverbetering
+    
+      
+    Best Practices (deprecated) 
+
+    ITIL 4:
+
+    * Van proces naar holistische benadering: elk onderdeel staat in contact met andere onderdelen en is dus niet geisoleerd.OF
+    * Geen gefragmeerteerde cyclus, maar /*end-to-end*/
+    * Van grote releases naar continual improvement
+
+    SERVICE VALUE SYSTEM 
+
+    - INPUT 
+        o Kansen (waardevermeerdering stakeholders of verbetering organisatie) en behoefte (noodzaak/verlangens naar product of service)
+
+    - Componenten
+        o Richtingevende principes (i.p.v. ITIL 3 best practices)
+        o Governance (bestuur)
+        o Servicewaardeketen (service value chain)
+        o Practice
+        o Continual Improvement
+
+    - Output
+        o Behalen van doelstellingen en waarde (vooral waarde vermeerdering is het doel van ITIL)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+ADDENDUM
+------------------------------------------------------------------------------------------------------------------------------------------
+SOFTWARE DEVELOPMENT LIFE CYCLE 
+    - Plannen (budget, materieel, devs, doelstellingen)
+    - Analyse (requirements, overleg business - dev team. Wat willen we precies)
+    - Ontwerpen (wat voor frameworks - bijv React-TypeScript, etc DESIGN patterns )
+    - Implementeren / Software schrijven (werk iteratief en betrek stakeholders)
+    - Testen & integratie ( controleer de code kwaliteit, integratie, beveiliging, performance  )
+    - Onderhoud & beheer ( never ending bug squashing en voorzien van updates m.b.t. veiliging en integratie etc )
+
+CW (Constante Waarde)
+
+            waarde
+CW =    -------------
+            (1+rente)^tijd
+
+            $10000
+v.b.    -------------   
+            (1,05)^2
+
+        ,05 = %
+        ^2  = tijd in jaren 
+
+        $10000 / 1,05^2 = $9070     
+
+
+---------------------------------------------------------------------------------------
+        KWALITEITSVERBETERING
+
+        PLAN    
+        DO
+        CHECK
+        ACT
+
+        Zo borg je kwaliteit
+
+--------------------------------------------------------------------------------------
+
+    PRODUCTRISICO
+
+    productrisico = faalkans * schade
