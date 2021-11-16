@@ -2,5 +2,70 @@ For different systems to be able to communicate over the Internet, protocols are
 Standards and protocols for the Internet are developed by the Internet Engineering Task Force (IETF)
 and written in specific documents. What is the name of these documents that define Internet protocols?
 
-ANSWER: Request For Comments
+    ANSWER: Request For Comments
 
+
+Alice loves to go out for long walks in nature. She uses her smartphone to take pictures of plants 
+and animals and wants to post them to Facebook and Instagram immediately, so her friends can "like" them. 
+What is the most suitable access technology for this scenario?
+
+    ANSWER: 3g/4g
+
+Which layer from the TCP/IP model is missing in the list below?
+
+    Application layer
+    Network layer
+    Link layer
+    Physical layer
+
+    ANSWER: Transmission
+
+At which layer of the TCP/IP model is a part of a data packet called a datagram? Enter the name of this layer.
+
+    ANSWER:Network Layer
+
+At which layer of the TCP/IP model does a hub operate?
+    
+    ANSWER: Physical
+
+Which of the folowing is not a host:
+
+    web server
+    smart-tv
+    mobile phone
+    desktop computer
+    router
+
+ANSWER: router
+
+Name an access technology that can be used to connect individual hosts within a corporate LAN to the company network.
+
+    ANSWER: Ethernet
+
+
+Consider the figure below. Which type of delay occurs at point 2, where an amount of time is required for a bit of data
+to get from the beginning of the link to the end of the link? Enter the name of this delay.
+
+(picture shown is packet sent between routers)
+
+ANSWER: Propagation
+
+Which layer from the TCP/IP model is missing in the list below?
+
+    Application layer
+    Network layer
+    Link layer
+    Physical layer
+
+    Answer:	Transport Layer	
+
+
+Which of the following is an advantage of a layered network architecture?
+
+    - Easy to add an extra layer (fase and why would there be a need for a whole layer, lol)
+    - Information that is available in one layer is automatically available in all layers (false).
+    - By using these layers there's no redundancy. Any desired functionality needs to be implemented only once, in one layer.
+
+ANSWER: Using layers makes it easy to make all kinds of hardware and systems 
+work together. As long as a layer offers the agreed service to an upper layer, 
+the actual technological implementation can be very different.
