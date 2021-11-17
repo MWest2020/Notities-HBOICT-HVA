@@ -69,3 +69,21 @@ Which of the following is an advantage of a layered network architecture?
 ANSWER: Using layers makes it easy to make all kinds of hardware and systems 
 work together. As long as a layer offers the agreed service to an upper layer, 
 the actual technological implementation can be very different.
+
+**************************************************************
+WEEK 2
+*************************************************************
+Throughput calculation (equals the slowest part of the link)
+1Mbps
+
+HTTP is a protocol at which layer of the TCP/IP protocol stack?
+Application Layer
+
+What is the network application architecture model used by e-mail?
+client-server
+
+SMTP-messages will result in segment(s) in the transport-layer using which protocol?
+TCP/IP
+
+How to make to company internet faster without upgrading?  
+Proxy server
