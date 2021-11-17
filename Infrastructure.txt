@@ -70,7 +70,7 @@ ANSWER: Using layers makes it easy to make all kinds of hardware and systems
 work together. As long as a layer offers the agreed service to an upper layer, 
 the actual technological implementation can be very different.
 
-**************************************************************
+*************************************************************
 WEEK 2
 *************************************************************
 Throughput calculation (equals the slowest part of the link)
@@ -87,3 +87,68 @@ TCP/IP
 
 How to make to company internet faster without upgrading?  
 Proxy server
+
+
+*************************************************************
+WEEK 3
+*************************************************************
+
+Within an organisation, there can be many subdomains. For example, within the HvA we have: www.hva.nl, 
+rooster.hva.nl, sis.hva.nl, webmail.hva.nl, moodle.informatica.hva.nl and the list goes on...
+
+There are different types of DNS servers. What type of DNS server is the source of information about the 
+IP-addresses for all hostnames within an organisation?
+
+ANSWER: Authorative DNS server
+
+
+DNS servers store resource records. There are different types of DNS records.
+
+What type of DNS record is used to store a domain and the address of a DNS server that knows the IP addresses for hosts in that domain?
+
+ANSWER: A record (address mapping record)
+
+
+In addition to translating hostnames to IP addresses, DNS provides a few other important services, such as 
+host aliasing. Name one more service (other than translating hostnames and host aliasing) that is provided by the DNS protocol.
+
+ANSWER: LOAD DISTRIBUTION
+
+A computer network's transport layer could, in theory, offer many different services to the application layer. Some examples are:
+
+Guaranteed minimum bandwidth for data transfer
+Guaranteed maximum delay for data transfer
+Reliable data transfer
+Confidential data transfer
+In reality, which of these services are offered by the Internet's transport layer?
+
+ANSWER: RELIABLE DATA TRANSFER
+
+Which transport protocol provides a connectionless service?
+
+Answer:	UDP	
+
+
+Which TCP service is described below?
+
+This service allows the sender to match the rate at which it is sending data against the 
+rate at which the receiving application is reading. In this way, this service enables the 
+sender to avoid overflowing the receiver's buffer.
+
+Answer:	FLOW CONTROL
+
+
+The UDP header has only four fields. Name one of them.
+
+Answer:	CHECKSUM (or: source port number, destination port number, Length)	
+
+
+Which is the correct telnet HTTP 1.1 request messages?
+
+ANSWER:
+
+GET /wiki/Hypertext_Transfer_Protocol HTTP/1.1
+Host: nl.wikipedia.org
+
+( GET [method] [url -- directories] HTTP/1.1.[protocol version]
+host: [url --domain name] )
